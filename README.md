@@ -53,7 +53,7 @@ Tambien se agregara cuda 9 ya colab usa cuda 10 en adelanta.
   	$!python train.py --model_def config/yolov3-custom3C.cfg --data_config config/custom.data --epochs 200 --batch_size 4 --pretrained_weights weights/darknet53.conv.74
 
 solo debido al almasenamiento solo se pudieron dar 73 epocas
-![imagen1](yolo.jpeg "imagen de colab")
+![imagen1](yolo.jpg "imagen de colab")
   
 ### Prueba local en imágen y video
 
